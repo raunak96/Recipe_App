@@ -9,7 +9,12 @@
   position:relative;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 862px) {
+  .recipe-card{
+    width:40%;
+  }
+}
+@media (max-width: 650px) {
   .recipe-card{
     width:75%;
   }

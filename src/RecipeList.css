@@ -5,12 +5,12 @@
   align-content:space-between;
 }
 
-@media (max-width: 792px) {
+@media (max-width: 862px) {
   .recipe-list {
-    justify-content:space-around;
+    justify-content:space-between;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   .recipe-list {
     display: flex;
     flex-direction: column;
