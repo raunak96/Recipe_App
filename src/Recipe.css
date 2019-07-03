@@ -9,7 +9,11 @@
   position:relative;
 }
 
-
+@media (max-width: 600px) {
+  .recipe-card{
+    width:75%;
+  }
+}
 .recipe-card-content {
   padding: 16px;
 }
